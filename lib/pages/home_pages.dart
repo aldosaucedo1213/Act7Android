@@ -15,7 +15,7 @@ class _HomeState extends State<Home> {
     return Scaffold(
       appBar: AppBar(
         // Suggested code may be subject to a license. Learn more: ~LicenseLog:2234836438.
-        title: Text("Crud Alexis Jimenez"),
+        title: Text("Crud Aldo Saucedo"),
         centerTitle: true,
         backgroundColor: const Color.fromARGB(255, 198, 68, 17),
       ),
